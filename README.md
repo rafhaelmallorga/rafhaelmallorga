@@ -12,7 +12,10 @@
 
 ##
 
-<div style="display: inline_block"><br>
+<img align="right" style="border-radius:50px;" src="https://camo.githubusercontent.com/a197aed8460339dd5481c9095f30695c50dded315e30967682221448310aef3c/68747470733a2f2f632e74656e6f722e636f6d2f796d7063434e5f666c6e38414141414d2f626162792d796f64612d7468652d6d616e64616c6f7269616e2e676966"/>
+
+### FRONT-END
+<div style="display: inline_block">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -22,11 +25,15 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
-  
-  <br>
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+</div>
+
+
+
+### BACK-END
+<div style="display: inline_block">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />       
@@ -35,7 +42,11 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" />
   <img align="center" height="30" width="40" src="https://avatars.githubusercontent.com/u/20165699?s=200&v=4" />
   
-  <br>
+</div>
+
+  
+### TOOLS
+<div style="display: inline_block">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
@@ -48,6 +59,16 @@
   
 </div>
 
-<img style="border-radius:50px;" src="https://camo.githubusercontent.com/a197aed8460339dd5481c9095f30695c50dded315e30967682221448310aef3c/68747470733a2f2f632e74656e6f722e636f6d2f796d7063434e5f666c6e38414141414d2f626162792d796f64612d7468652d6d616e64616c6f7269616e2e676966"/>
+
 
 ##
+
+<div>
+  <a href = "mailto:rafhaelmallorga@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rafhael-mallorga-44632494/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.codewars.com/users/rafhaelmallorga" target="_blank"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/rafhaelmallorga/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 
+  ![Snake animation](https://github.com/rafhaelmallorga/rafhaelmallorga/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
