@@ -1,74 +1,60 @@
-### Hello, I'm Rafhael Mallorga! 🇧🇷 🇵🇹
+# 👋 Olá, eu sou o Rafhael Mallorga
 
-### Full-Stack developer!
+Sou **Desenvolvedor Back-end / Full Stack**, atuando no desenvolvimento de **sistemas distribuídos, APIs, integrações e aplicações web**, com foco em **qualidade, escalabilidade e arquitetura bem definida**.
 
-##
-<br>
-<div align="left">
-  <a href="https://www.linkedin.com/in/rafhael-mallorga-44632494/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafhaelmallorga&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafhaelmallorga&layout=compact&langs_count=7&theme=tokyonight"/>
+Tenho experiência tanto em **ambientes modernos** quanto em **sistemas legados**, participando de evolução técnica, refatorações e melhorias contínuas.
+
+---
+
+## 🧠 Stack & Tecnologias
+
+### Back-end
+- **Node.js** · TypeScript · JavaScript  
+- **Java** · Spring Boot  
+- **Arquitetura:** REST · Microsserviços · Clean Architecture  
+- **Mensageria:** Apache Kafka  
+
+### Front-end
+- **React.js** · **Next.js**
+- Integração front ↔ back orientada a APIs
+
+### Bancos de Dados
+- **MongoDB**
+- **SQL (PostgreSQL / MySQL)**
+
+### Infraestrutura & Plataforma
+- **Docker**
+- **Linux**
+- **NGINX**
+- Observabilidade, logs e troubleshooting
+
+---
+
+## 📊 Estatísticas (curadas)
+
+<div align="center">
+
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=RafhaelMallorga&show_icons=true&hide=stars,issues&count_private=true&theme=default" />
+
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafhaelMallorga&layout=compact&langs_count=6&hide=html,css,scss&theme=default" />
+
 </div>
 
-##
+📌 *As estatísticas refletem apenas repositórios públicos e relevantes.*
 
-<img align="right" style="border-radius:50px;" src="https://camo.githubusercontent.com/a197aed8460339dd5481c9095f30695c50dded315e30967682221448310aef3c/68747470733a2f2f632e74656e6f722e636f6d2f796d7063434e5f666c6e38414141414d2f626162792d796f64612d7468652d6d616e64616c6f7269616e2e676966"/>
+---
 
-### FRONT-END
-<div style="display: inline_block">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
-</div>
+## 🧩 O que você encontra neste perfil
 
+- APIs e serviços em **Java / Spring Boot** e **Node.js**
+- Integrações com **mensageria e sistemas externos**
+- Aplicações **Full Stack** com **Next.js**
+- Estudos e experimentos sobre **arquitetura, performance e infraestrutura**
+- Projetos focados em **evolução técnica contínua**
 
+---
 
-### BACK-END
-<div style="display: inline_block">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />       
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" />
-  <img align="center" height="30" width="40" src="https://avatars.githubusercontent.com/u/20165699?s=200&v=4" />
-  
-</div>
+## 📫 Contato
 
-  
-### TOOLS
-<div style="display: inline_block">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" />        
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" /> 
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
-  
-</div>
-
-
-
-##
-
-<div>
-  <a href = "mailto:rafhaelmallorga@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafhael-mallorga-44632494/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.codewars.com/users/rafhaelmallorga" target="_blank"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/rafhaelmallorga/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 
-  ![Snake animation](https://github.com/rafhaelmallorga/rafhaelmallorga/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+- 💼 LinkedIn: https://www.linkedin.com/in/seu-link
+- 📧 Email: seuemail@exemplo.com
