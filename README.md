@@ -34,9 +34,9 @@ Tenho experiência tanto em **ambientes modernos** quanto em **sistemas legados*
 
 <div align="center">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RafhaelMallorga&show_icons=true" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rafhaelmallorga&show_icons=true" />
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RafhaelMallorga&layout=compact" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rafhaelmallorga&layout=compact" />
 
 </div>
 
