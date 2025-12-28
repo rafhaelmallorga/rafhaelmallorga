@@ -34,9 +34,9 @@ Tenho experiência tanto em **ambientes modernos** quanto em **sistemas legados*
 
 <div align="center">
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=RafhaelMallorga&show_icons=true&hide=stars,issues&count_private=true&theme=default" />
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=rafhaelmallorga&show_icons=true&hide=stars,issues&count_private=true&theme=default" />
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafhaelMallorga&layout=compact&langs_count=6&hide=html,css,scss&theme=default" />
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafhaelmallorga&layout=compact&langs_count=6&hide=html,css,scss&theme=default" />
 
 </div>
 
@@ -56,5 +56,5 @@ Tenho experiência tanto em **ambientes modernos** quanto em **sistemas legados*
 
 ## 📫 Contato
 
-- 💼 LinkedIn: https://www.linkedin.com/in/seu-link
-- 📧 Email: seuemail@exemplo.com
+- 💼 LinkedIn: https://www.linkedin.com/in/rafhaelmallorga
+- 📧 Email: contato@rootsoftware.com.br
